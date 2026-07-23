@@ -148,19 +148,6 @@ Durante o desenvolvimento foram utilizados conceitos importantes da disciplina d
 
 ---
 
-# 🚀 Possíveis Melhorias
-
-Como evolução do projeto, podem ser implementadas funcionalidades como:
-
-- Persistência dos dados em arquivos
-- Interface gráfica
-- Utilização de listas encadeadas
-- Sistema de autenticação
-- Exportação de relatórios
-- Interface baseada em menus mais intuitivos
-
----
-
 # 👨‍💻 Autores
 
 **Gabriel Cotrim Miron**
